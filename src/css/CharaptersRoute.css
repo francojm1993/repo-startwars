@@ -1,0 +1,17 @@
+.container-Charapter_route1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(46, 236, 28);
+  min-height: 100vh;
+  background-image: url(/public/img/4541e0def17eb55e602ee50b8847234f.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.container-character_cards1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}

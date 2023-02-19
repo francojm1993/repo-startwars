@@ -1,0 +1,21 @@
+.container-Charapter_route2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url(/public/img/4541e0def17eb55e602ee50b8847234f.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.container-character_cards2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.card-star-wars {
+  width: 20rem;
+  height: 25rem;
+  background-color: aliceblue;
+}
